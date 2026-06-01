@@ -256,7 +256,8 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ```
     
-![png](ex5_15_1.png)
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/f066ae81-cd34-466e-a0a8-5219b8fb4f45" />
+
     
 ```
 
